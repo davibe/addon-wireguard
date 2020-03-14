@@ -2,9 +2,9 @@
 include: https://raw.githubusercontent.com/hassio-addons/organization/master/gitlabci/addon.yml
 
 variables:
-  ADDON_GITHUB_REPO: "hassio-addons/addon-wireguard"
-  ADDON_SLUG: "wireguard"
-  ADDON_TARGET: "wireguard"
+  ADDON_GITHUB_REPO: "davibe/addon-wireguard-client"
+  ADDON_SLUG: "wireguard-client"
+  ADDON_TARGET: "wireguard-client"
 
   ADDON_LEGACY_TAGS: "true"
 
